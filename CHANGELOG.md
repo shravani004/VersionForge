@@ -34,3 +34,21 @@ Passed all GitHub Actions test checks
 
 ### GitHub Actions
 Passed all GitHub Actions test checks
+
+***
+## [v1.1.0] - 09-04-2025
+
+### Added
+* report_generator.py
+      Exports feedback to .txt file
+
+### Documentation
+* Updated README.md: New section describing report generator functionality
+* Updated Release Notes: Added recent version details and modifications
+
+### Pull Request
+* Merged reports into main via Pull Request:
+      Includes new file, tests and doc updates
+
+### GitHub Actions
+Passed all GitHub Actions test checks

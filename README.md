@@ -21,5 +21,14 @@ The Student Management System is a simple Python program designed for collecting
 ### Provides summary for various subjects
 * Summarises feedback 
 
-### License
+### Generate .txt file containing feedback
+* Export feedback to .txt file
+
+### Searching through feedback by student name
+* Search feedback by student name
+
+### Count total feedback entries submitted
+* Count total entries submitted
+
+## License
 This project is open-source and is available under MIT License

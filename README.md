@@ -18,5 +18,8 @@ The Student Management System is a simple Python program designed for collecting
 ### Display score for feedback
 * Calculate and display average score
 
+### Provides summary for various subjects
+* Summarises feedback 
+
 ### License
 This project is open-source and is available under MIT License

@@ -1,0 +1,20 @@
+Release Date : April 9, 2025
+Version : v1.0.0
+
+Features
+Feedback Collection Module
+Allows students to submit feedback using numerical scores (e.g., 1–5).
+
+Average Score Calculation
+Automatically computes the average of submitted feedback scores.
+
+Unit Testing (pytest)
+Includes basic unit tests to validate:
+
+GitHub Actions CI Workflow
+
+Automates test execution on every push and pull request.
+
+Language: Python 3.10
+
+CI/CD: GitHub Actions

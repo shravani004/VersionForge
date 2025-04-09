@@ -1,5 +1,3 @@
-# feedback_entry.py
-
 import score_calculator
 
 def add_feedback(students, student_name, subject, feedback):

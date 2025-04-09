@@ -25,7 +25,6 @@ Passed all GitHub Actions test checks
       Summarises feedback across multiple students and subjects  
 
 ### Documentation
-* Updated README.md: New section describing feedback summary functionality
 * Updated Release Notes: Added recent version details and modifications
 
 ### Pull Request
@@ -43,10 +42,21 @@ Passed all GitHub Actions test checks
       Exports feedback to .txt file
 
 ### Documentation
-* Updated README.md: New section describing report generator functionality
 * Updated Release Notes: Added recent version details and modifications
 * Linked Issue to Milestone and closed both the issue and milestone
 
+***
+## [v1.2.0] - 09-04-2025
+
+## Added
+* search_feedback.py
+      Searches through feedback by student name
+* count_feedback
+      count total entries submitted
+
+## Documentation
+* Updated Release Notes: Added recent version details and modifications
+* * Linked Issue to Milestone and closed both the issue and milestone
 ### Pull Request
 * Merged reports into main via Pull Request:
       Includes new file, tests and doc updates

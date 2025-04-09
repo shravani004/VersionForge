@@ -1,11 +1,5 @@
 name: Test Search Feedback
-
-on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
+on: [push]
 jobs:
   test_search:
     runs-on: ubuntu-latest

@@ -45,6 +45,7 @@ Passed all GitHub Actions test checks
 ### Documentation
 * Updated README.md: New section describing report generator functionality
 * Updated Release Notes: Added recent version details and modifications
+* Linked Issue to Milestone and closed both the issue and milestone
 
 ### Pull Request
 * Merged reports into main via Pull Request:
